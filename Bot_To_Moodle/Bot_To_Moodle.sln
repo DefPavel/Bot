@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bot_To_Moodle", "Bot_To_Moodle\Bot_To_Moodle.csproj", "{99599860-FB51-4B11-9252-67A2C6329650}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99599860-FB51-4B11-9252-67A2C6329650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99599860-FB51-4B11-9252-67A2C6329650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99599860-FB51-4B11-9252-67A2C6329650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99599860-FB51-4B11-9252-67A2C6329650}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55CAE594-B703-43BB-998A-52B91CBB73EB}
+	EndGlobalSection
+EndGlobal
